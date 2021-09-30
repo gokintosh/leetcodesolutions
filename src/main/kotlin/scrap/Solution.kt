@@ -1,0 +1,6 @@
+package scrap
+
+class Solution {
+
+
+}
